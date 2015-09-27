@@ -1,0 +1,53 @@
+
+
+                 .body {
+                 background-image: url("static/bootstrap/images/logo.jpg");
+                 font-family: Arial, Sans-Serif, serif;
+                 color: #000000;
+
+                 font-size: 30px;}
+
+#wrap {
+    width:750px;
+    margin:0 auto;
+    background:#99c;
+}
+#header {
+    background: #15dd01;
+    float:left;
+    width: 600px;
+    opacity: 0.5;
+}
+#left-sidebar {
+    float:left;
+    width:250px;
+    background:#9c9;
+    opacity: 0.5;
+}
+
+.nav {
+    background:#c99;
+}
+#footer {
+    font-family: Arial,sans-serif;
+    font-size: medium;
+    clear:both;
+    background: #24cc5a;
+}
+#sidebar {
+    float:right;
+    width:250px;
+    background:#c9c;
+}
+#nav ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+.nav_li {
+    display:inline;
+    margin:0;
+    padding:0;
+
+}
+
